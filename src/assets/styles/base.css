@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+
+.a-link {
+  text-decoration: none;
+  color: #333;
+}
+
+.a-link:hover {
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: 'Cute';
+  src: url('/fonts/Cute.woff2');
+}
+
+@font-face {
+  font-family: 'Wenkai';
+  src: url('/fonts/Wenkai.ttf');
+}
